@@ -1,5 +1,5 @@
 # proto
-Proto for gPRC
+Proto for gPRC training
 
 # command to run the server
 ```bash
